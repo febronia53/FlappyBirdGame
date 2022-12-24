@@ -800,7 +800,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0ac536168b054149bf50b96a03f584d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.3
+  speed: 0.4
   jump: 450
   animator: {fileID: 72714912}
 --- !u!1001 &82385886
@@ -4382,7 +4382,7 @@ MonoBehaviour:
   - {fileID: 1322866036}
   - {fileID: 1459350160}
   choke: 0
-  scrollSpeed: 20
+  scrollSpeed: 23
 --- !u!1001 &538626332
 PrefabInstance:
   m_ObjectHideFlags: 0
